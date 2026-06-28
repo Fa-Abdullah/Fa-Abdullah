@@ -87,18 +87,6 @@ I enjoy learning by building, experimenting with new ideas, and improving existi
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fa-Abdullah&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa-Abdullah&layout=compact&hide_border=true" />
 </p>
 
 ---
