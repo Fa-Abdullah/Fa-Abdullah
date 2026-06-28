@@ -84,9 +84,7 @@ I enjoy learning by building, experimenting with new ideas, and improving existi
 - LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/fatma-abdullah/)
 - GitHub: https://github.com/Fa-Abdullah
 - Email: tmatm2540@gmail.com
-
----
-
+  
 </p>
 
 ---
