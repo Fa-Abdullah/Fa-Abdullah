@@ -81,6 +81,25 @@ I enjoy learning by building, experimenting with new ideas, and improving existi
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- GitHub: https://github.com/YOUR-USERNAME
-- Email: YOUR_EMAIL@example.com
+- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/fatma-abdullah/)
+- GitHub: https://github.com/Fa-Abdullah
+- Email: tmatm2540@gmail.com
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fa-Abdullah&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa-Abdullah&layout=compact&hide_border=true" />
+</p>
+
+---
+
